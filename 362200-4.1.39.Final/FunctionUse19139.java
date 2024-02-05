@@ -1,0 +1,7 @@
+import io.netty.channel.sctp.SctpMessage;
+public class FunctionUse19139 {
+public void funcUse() {
+SctpMessage sctpmessage = new SctpMessage();
+sctpmessage.messageInfo();
+}
+}
